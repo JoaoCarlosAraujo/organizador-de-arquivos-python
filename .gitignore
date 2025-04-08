@@ -1,0 +1,16 @@
+
+**Explicação:**
+
+O **README.md** serve para ajudar outros usuários a entender o que o projeto faz, como utilizá-lo e como ele está organizado internamente. É importante que o arquivo seja claro, pois ele será a primeira impressão de recrutadores e colaboradores.
+
+---
+
+### 2.4 .gitignore
+
+Este arquivo informa ao Git quais arquivos ou pastas não devem ser versionados. Isso evita que arquivos temporários ou compilados sejam enviados ao repositório.
+
+```gitignore
+# Ignorar diretórios e arquivos gerados pelo Python
+__pycache__/
+*.pyc
+.env
