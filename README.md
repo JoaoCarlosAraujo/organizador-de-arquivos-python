@@ -21,9 +21,3 @@ Este projeto é uma ferramenta escrita em Python que organiza automaticamente os
 - Python 3 instalado
 - Git (caso deseje clonar o repositório)
 
-### Passos para executar:
-
-1. **Clonar o repositório (opcional)**:
-   ```bash
-   git clone https://github.com/seunome/organizador-de-arquivos-python.git
-   cd organizador-de-arquivos-python
